@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökberk</h1>
 <h3 align="center">Developer</h3>
 
-- 🔭 I’m currently working on **Front Ent Development**
-- 🌱 I’m currently learning **Java, Springboot**
+- 🔭 I’m currently working on **Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
